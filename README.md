@@ -79,8 +79,8 @@
 
    ---
 ## 📸 Screenshots
-![Tool Image](images/tool%20image.png)  
-![Attack Mode](images/attack%20mode.png)  
-![Terminal Output 2](images/terminal%20output2.png) 
-![Terminal Output](images/terminal%20output.png)
+![Tool Image](images/tool image.png)  
+![Attack Mode](images/attck mode.png)  
+![Terminal Output 2](images/terminal mode.png) 
+![Terminal Output](images/terminal output.png)
 
