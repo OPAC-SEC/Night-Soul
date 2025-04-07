@@ -52,8 +52,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Mrsoulhunter/dark-reaper-soul.git
-   cd dark-reaper-soul
+   git clone https://github.com/OPAC-SEC/Night-soul.git
+   cd Night-soul
    ```
 
 ---
