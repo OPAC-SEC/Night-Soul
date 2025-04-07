@@ -74,7 +74,7 @@
 
 4. **👤 CREATED BY**
    **AbhayKumar Patel (@OPAC-SEC)**  
-   Red teaming enthusiast | OSINT wizard | Digital forensics  
+    
    Follow my chaos on GitHub and join the revolution.
 
    ---
