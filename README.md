@@ -82,5 +82,5 @@
 ![Tool Image](images/tool image.png)  
 ![Attack Mode](images/attck mode.png)  
 ![Terminal Output 2](images/terminal mode.png) 
-![Terminal Output](images/terminal output.png)
+![Terminal Output](https://github.com/OPAC-SEC/Night-Soul/blob/f48b92a9cc147afd1b61f66ea2af19d4b03109b2/images/terminal%20output.png)
 
