@@ -79,8 +79,8 @@
 
    ---
 ## 📸 Screenshots
-![Tool Image](images/tool image.png)  
-![Attack Mode](images/attck mode.png)  
-![Terminal Output 2](images/terminal mode.png) 
+![Tool Image](https://github.com/OPAC-SEC/Night-Soul/blob/0d3487db9bf88d7b7436a32efb88b5ffc8050015/images/tool%20image.png)  
+![Attack Mode](https://github.com/OPAC-SEC/Night-Soul/blob/0d3487db9bf88d7b7436a32efb88b5ffc8050015/images/attck%20mode.png)  
+![Terminal Output 2](https://github.com/OPAC-SEC/Night-Soul/blob/0d3487db9bf88d7b7436a32efb88b5ffc8050015/images/terminal%20mode.png) 
 ![Terminal Output](https://github.com/OPAC-SEC/Night-Soul/blob/f48b92a9cc147afd1b61f66ea2af19d4b03109b2/images/terminal%20output.png)
 
